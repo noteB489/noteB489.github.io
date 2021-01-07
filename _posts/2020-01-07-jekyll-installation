@@ -1,0 +1,15 @@
+---
+title: "Github Page Jekyll Installation(Windows)"
+dates: 2021-01-07 16:56:28
+categories: ruby
+---
+After the configuration of this website through the Jekyll remote theme plugin.
+There is a need for customization of this website so I go back to the first step.
+This page has a piece of information for building a website using Jekyll template.
+
+In order to organize the Jekyll customizable website(not the remote plugin), you should install the Ruby.
+Visit the [RubyInstaller] website.
+[RubyInstaller]: https://rubyinstaller.org/downloads/
+Download and install RubyInstaller above version 2.4.
+Last step of installation, do the 'ridk install'.
+Run the terminal(cmd) and configure 'PATH' and install the Jekyll and the Bundler. 'gem install jekyll bundler'
